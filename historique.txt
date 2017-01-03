@@ -1,0 +1,20 @@
+$ git log --graph --pretty=short
+* commit 0d9e1b6611c89452a5cf0b052a9efc9f8d9e4003
+| Author: BphilippeGit <bphilippe@gmail.com>
+|
+|     maquette
+|
+* commit 2ef3c0b72e3fca977f9e5e1158e0d69a8ef3a20e
+| Author: francoisbrest <francois.boucherie@orange.fr>
+|
+|     Update README.md
+|
+* commit 54ad2ad7e79b6adc2e7b5372124ce3501563e613
+| Author: François Boucherie <francois.boucherie@orange.fr>
+|
+|     Hello
+|
+* commit 685d99ee3214028f8815663fed60f16d7edf957c
+  Author: francoisbrest <francois.boucherie@orange.fr>
+
+      Initial commit
